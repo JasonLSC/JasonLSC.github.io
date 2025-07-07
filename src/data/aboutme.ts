@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "Zhejiang University",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of 3D computer vision and visual data compression. My research focuses on developing immersive video systems that support the delivery and rendering of photorealistic 3D video on mobile devices.",
+    "I'm a final-year PhD candidate working at the intersection of 3D computer vision and visual data compression. My research focuses on developing immersive video systems that support the delivery and rendering of photorealistic 3D video on mobile devices.",
   email: "jasonlisicheng@zju.edu.cn",
   imageUrl:
     "https://images.unsplash.com/photo-1751889974981-69f1416242fd?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",

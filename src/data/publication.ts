@@ -70,6 +70,6 @@ export const publicationData: Publication[] = [
     authors: "Sicheng Li, Hao Li, Yue Wang, Yiyi Liao, Lu Yu",
     paperUrl: "https://arxiv.org/abs/2212.08476",
     codeUrl: "https://github.com/JasonLSC/SteerNeRF_official",
-    imageUrl: "/images/steernef.png",
+    imageUrl: "/images/steernerf.png",
   }
 ];

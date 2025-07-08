@@ -43,6 +43,7 @@ export const publicationData: Publication[] = [
     authors: "Sicheng Li, Chengzhen Wu, Hao Li, Xiang Gao, Yiyi Liao, Lu Yu",
     paperUrl: "https://arxiv.org/abs/2506.01822",
     codeUrl: "https://github.com/JasonLSC/GSCodec_Studio",
+    imageUrl: "/images/gscodec_studio.png",
   },  
   {
     year: "2025",
@@ -51,6 +52,7 @@ export const publicationData: Publication[] = [
     authors: "Hao Li, Sicheng Li, Xiang Gao, Abudouaihati Batuer, Lu Yu, Yiyi Liao",
     paperUrl: "https://arxiv.org/abs/2505.07539v1",
     codeUrl: "https://github.com/XDimLab/GIFStream",
+    imageUrl: "/images/gifstream.png",
   },
   {
     year: "2024",
@@ -59,6 +61,7 @@ export const publicationData: Publication[] = [
     authors: "Sicheng Li, Hao Li, Lu Yu, Yiyi Liao",
     paperUrl: "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_NeRFCodec_Neural_Feature_Compression_Meets_Neural_Radiance_Fields_for_Memory-Efficient_CVPR_2024_paper.pdf",
     codeUrl: "https://github.com/JasonLSC/NeRFCodec_public",
+    imageUrl: "/images/nerfcodec.png",
   },
   {
     year: "2023",
@@ -67,5 +70,6 @@ export const publicationData: Publication[] = [
     authors: "Sicheng Li, Hao Li, Yue Wang, Yiyi Liao, Lu Yu",
     paperUrl: "https://arxiv.org/abs/2212.08476",
     codeUrl: "https://github.com/JasonLSC/SteerNeRF_official",
+    imageUrl: "/images/steernef.png",
   }
 ];

@@ -36,4 +36,36 @@ export const publicationData: Publication[] = [
   //   paperUrl: "https://arxiv.org/abs/2302.13095",
   //   codeUrl: "https://github.com/jsmith/robust-causal-discovery",
   // },
+  {
+    year: "2025",
+    conference: "In submission",
+    title: "GSCodec Studio: A Modular Framework for Gaussian Splat Compression",
+    authors: "Sicheng Li, Chengzhen Wu, Hao Li, Xiang Gao, Yiyi Liao, Lu Yu",
+    paperUrl: "https://arxiv.org/abs/2506.01822",
+    codeUrl: "https://github.com/JasonLSC/GSCodec_Studio",
+  },  
+  {
+    year: "2025",
+    conference: "CVPR",
+    title: "GIFStream: 4D Gaussian-based Immersive Video with Feature Stream",
+    authors: "Hao Li, Sicheng Li, Xiang Gao, Abudouaihati Batuer, Lu Yu, Yiyi Liao",
+    paperUrl: "https://arxiv.org/abs/2505.07539v1",
+    codeUrl: "https://github.com/XDimLab/GIFStream",
+  },
+  {
+    year: "2024",
+    conference: "CVPR",
+    title: "NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation",
+    authors: "Sicheng Li, Hao Li, Lu Yu, Yiyi Liao",
+    paperUrl: "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_NeRFCodec_Neural_Feature_Compression_Meets_Neural_Radiance_Fields_for_Memory-Efficient_CVPR_2024_paper.pdf",
+    codeUrl: "https://github.com/JasonLSC/NeRFCodec_public",
+  },
+  {
+    year: "2023",
+    conference: "CVPR",
+    title: "SteerNeRF: Accelerating NeRF Rendering via Smooth Viewpoint Trajectory",
+    authors: "Sicheng Li, Hao Li, Yue Wang, Yiyi Liao, Lu Yu",
+    paperUrl: "https://arxiv.org/abs/2212.08476",
+    codeUrl: "https://github.com/JasonLSC/SteerNeRF_official",
+  }
 ];
